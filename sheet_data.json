@@ -1,7 +1,7 @@
 {
   "type": "sheet_data",
-  "run_id": "74350eaa-8509-4212-9e68-f775cf3f57d2",
-  "timestamp": "2026-06-28T07:50:17.238Z",
+  "run_id": "9972da86-ee49-4ee8-8663-85dc87757a90",
+  "timestamp": "2026-06-28T08:01:21.311Z",
   "brand_overview": {
     "headers": [
       "广告系列",
@@ -1537,7 +1537,7 @@
         "广告账户ID": "9871594019",
         "广告组ID": "",
         "广告ID": "",
-        "文案要求": "大、小品牌结合吧",
+        "文案要求": "",
         "启用换链\t": "",
         "备忘录": "",
         "说明": "",
@@ -1545,10 +1545,10 @@
         "_rowNumber": 67
       },
       {
-        "广告系列": "",
-        "地区": "",
+        "广告系列": "pb-aiper-amz",
+        "地区": "US",
         "推广链接": "",
-        "品牌官网": "",
+        "品牌官网": "https://www.amazon.de/dp/B0DL46SD6W",
         "换链频率\t": "",
         "代理地区": "",
         "换链状态": "",
@@ -1560,7 +1560,7 @@
         "广告账户ID": "9871594019",
         "广告组ID": "",
         "广告ID": "",
-        "文案要求": "",
+        "文案要求": "大、小品牌结合吧",
         "启用换链\t": "",
         "备忘录": "",
         "说明": "",
@@ -3733,11 +3733,19 @@
       },
       {
         "广告系列": "pb-aurzen-amz",
+        "标题JSON": "[\"Aurzen Roku TV Projector\", \"Netflix on the Wall\", \"Replace Your Broken TV\", \"Smart TV Half Price\", \"100 Inch Home Cinema\", \"Half the Cost of a TV\", \"Dolby Audio Projector\", \"Eye-Friendly TV Alt\", \"Roku TV Built-in\", \"Top Rated on Amazon\", \"Fast Free Shipping\", \"Trusted Roku Partner\", \"Shop Now on Amazon\", \"Get Yours Today\", \"Upgrade Your TV Now\"]",
+        "描述JSON": "[\"TV broke? Aurzen Roku projector w/ Netflix. 100 inch. Half TV cost.\", \"No smart TV? Get Aurzen w/ Roku TV, Dolby Audio. Big screen, low price.\", \"Free shipping. Easy returns. Aurzen Roku projector on Amazon. Shop today.\", \"Secure checkout. Fast delivery. Aurzen projector replaces TV. Order now.\"]",
+        "关键词JSON": "[\"[aurzen]\", \"[aurzen roku tv]\", \"[aurzen projector]\", \"[roku tv projector]\", \"[netflix projector]\", \"[dolby audio projector]\", \"[smart projector 1080p]\", \"[100 inch projector]\", \"\\\"roku tv projector\\\"\", \"\\\"netflix projector\\\"\", \"\\\"dolby audio projector\\\"\", \"\\\"1080p smart projector\\\"\", \"\\\"replace tv with projector\\\"\", \"\\\"100 inch home cinema\\\"\", \"\\\"eye friendly tv\\\"\", \"\\\"smart tv alternative\\\"\", \"\\\"aurzen projector amazon\\\"\", \"\\\"best roku projector\\\"\", \"roku projector\", \"streaming projector\", \"home theater projector\", \"tv replacement projector\", \"portable smart projector\", \"projector with apps\"]",
+        "原始输出 ": "",
+        "_rowNumber": 67
+      },
+      {
+        "广告系列": "pb-aiper-amz",
         "标题JSON": "",
         "描述JSON": "",
         "关键词JSON": "",
         "原始输出 ": "",
-        "_rowNumber": 67
+        "_rowNumber": 68
       }
     ]
   }
