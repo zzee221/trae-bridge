@@ -1,12 +1,13 @@
 {
   "type": "write_back",
-  "run_id": "9972da86-ee49-4ee8-8663-85dc87757a90",
+  "run_id": "79ed5fff-c28e-4cc3-8666-cf6c00eadc24",
   "rows": [
     {
-      "广告系列": "pb-aiper-amz",
-      "标题JSON": "[\"Aiper Cordless Pool Cleaner\", \"Aiper Scuba S1 Robot\", \"Cordless Robotic Pool Vac\", \"No More Tangled Cables\", \"Cleans Your Pool Automatically\", \"Saves Hours of Manual Work\", \"Battery Runs 90-150 Minutes\", \"Self-Parking Smart Technology\", \"Ultra Fine 3μm Filtration\", \"Top Rated Pool Robot 2026\", \"Trusted by Thousands\", \"Free Shipping Available\", \"Shop Aiper Official Store\", \"Get Yours Now\", \"View Deals Today\"]",
-      "描述JSON": "[\"Scuba S1 cordless pool clean. No cords, fine filter. Saves hours. Shop.\", \"Scuba S1 flat pool robot. Cordless, 150-min run, self-park, fine filter.\", \"Fast ship from Aiper. Easy checkout, secure payment. Returns ok. Shop.\", \"Shop direct at Aiper. Free ship, secure pay, easy returns on orders.\"]",
-      "关键词JSON": "[\"[aiper]\", \"[aiper pool cleaner]\", \"[aiper scuba s1]\", \"[cordless pool cleaner]\", \"[aiper robotic pool cleaner]\", \"\\\"aiper cordless pool robot\\\"\", \"\\\"aiper scuba s1 review\\\"\", \"\\\"cordless robotic pool vacuum\\\"\", \"\\\"aiper pool robot for sale\\\"\", \"\\\"best cordless pool cleaner 2026\\\"\", \"\\\"aiper official store\\\"\", \"\\\"aiper scuba s1 price\\\"\", \"\\\"battery pool vacuum\\\"\", \"\\\"wireless pool cleaner\\\"\", \"\\\"pool robot no cord\\\"\", \"\\\"aiper amazon\\\"\", \"\\\"cordless above ground pool cleaner\\\"\", \"\\\"robotic pool cleaner battery powered\\\"\", \"\\\"pool cleaning robot no cord\\\"\", \"cordless pool vacuum\", \"automatic pool cleaner\", \"battery pool robot\", \"no cord pool vacuum\", \"pool cleaning robot\"]"
+      "campaign": "pb-aiper-amz",
+      "region": "DE",
+      "headlines_json": "[\"Aiper Scuba S1 Poolroboter\", \"Kabelloser Akku Poolreiniger\", \"Wand- & Wasserlinienreinigung\", \"Aiper - kabellos & kraftvoll\", \"Bis 150 m² pro Ladung\", \"180 Min Laufzeit - kabellos\", \"WavePath 2.0 Navigation\", \"3μm MicroMesh Filter\", \"Kein Kabel - einfach starten\", \"Offizieller Aiper Store\", \"Schneller Versand aus DE\", \"App-Steuerung inklusive\", \"Jetzt bei Amazon kaufen\", \"Angebot sichern\", \"Direkt bestellen - Aiper\"]",
+      "descriptions_json": "[\"Aiper Scuba S1: Kabellos, 180 Min. Reinigt Wände & Wasserlinie. Amazon!\", \"Kein Kabelsalat: Aiper Scuba S1, kabellos, 150 m². App inkl. Jetzt kaufen!\", \"Schneller Versand aus DE. Amazon Prime verfügbar. 30 Tage Rückgaberecht.\", \"Einfach einwerfen & starten. Keine Installation. Amazon Pay, sicher!\"]",
+      "keywords_json": "[\"[aiper scuba s1]\", \"[aiper poolroboter]\", \"[aiper kabellos]\", \"[aiper scuba s1 kaufen]\", \"[aiper poolreiniger]\", \"\\\"kabelloser poolroboter\\\"\", \"\\\"poolroboter akku\\\"\", \"\\\"poolreiniger ohne kabel\\\"\", \"\\\"akku poolsauger\\\"\", \"\\\"bester kabelloser poolreiniger\\\"\", \"\\\"poolroboter wandreinigung\\\"\", \"\\\"wasserlinienreinigung pool\\\"\", \"\\\"akku saugroboter pool\\\"\", \"\\\"schwimmbadroboter kaufen\\\"\", \"\\\"poolroboter app steuerung\\\"\", \"kabelloser poolreiniger\", \"akku poolroboter\", \"schwimmbadreiniger roboter\", \"aiper angebot\", \"poolroboter test 2026\", \"roboter poolreiniger kabellos\", \"poolbodenreiniger akku\"]"
     }
   ]
 }
