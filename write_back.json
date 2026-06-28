@@ -1,0 +1,13 @@
+{
+  "type": "write_back",
+  "run_id": "74350eaa-8509-4212-9e68-f775cf3f57d2",
+  "timestamp": "2026-06-28T07:55:00Z",
+  "rows": [
+    {
+      "广告系列": "pb-aurzen-amz",
+      "标题JSON": "[\"Aurzen Roku TV Projector\", \"Netflix on the Wall\", \"Replace Your Broken TV\", \"Smart TV Half Price\", \"100 Inch Home Cinema\", \"Half the Cost of a TV\", \"Dolby Audio Projector\", \"Eye-Friendly TV Alt\", \"Roku TV Built-in\", \"Top Rated on Amazon\", \"Fast Free Shipping\", \"Trusted Roku Partner\", \"Shop Now on Amazon\", \"Get Yours Today\", \"Upgrade Your TV Now\"]",
+      "描述JSON": "[\"TV broke? Aurzen Roku projector w/ Netflix. 100 inch. Half TV cost.\", \"No smart TV? Get Aurzen w/ Roku TV, Dolby Audio. Big screen, low price.\", \"Free shipping. Easy returns. Aurzen Roku projector on Amazon. Shop today.\", \"Secure checkout. Fast delivery. Aurzen projector replaces TV. Order now.\"]",
+      "关键词JSON": "[\"[aurzen]\", \"[aurzen roku tv]\", \"[aurzen projector]\", \"[roku tv projector]\", \"[netflix projector]\", \"[dolby audio projector]\", \"[smart projector 1080p]\", \"[100 inch projector]\", \"\\\"roku tv projector\\\"\", \"\\\"netflix projector\\\"\", \"\\\"dolby audio projector\\\"\", \"\\\"1080p smart projector\\\"\", \"\\\"replace tv with projector\\\"\", \"\\\"100 inch home cinema\\\"\", \"\\\"eye friendly tv\\\"\", \"\\\"smart tv alternative\\\"\", \"\\\"aurzen projector amazon\\\"\", \"\\\"best roku projector\\\"\", \"roku projector\", \"streaming projector\", \"home theater projector\", \"tv replacement projector\", \"portable smart projector\", \"projector with apps\"]"
+    }
+  ]
+}
